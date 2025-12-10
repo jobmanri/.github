@@ -1,8 +1,8 @@
 # Jobmanri (잡만리) 🚀
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf7f01b1-1f14-49d5-b8f3-6fd3ffa636c2" />
+<img width="1920" height="401" alt="잡만리" src="https://github.com/user-attachments/assets/f32833e0-0efe-4fe0-9a10-f2c9f5211a2e" />
 
-프로젝트 한줄 소개 > (예: 구직자와 기업을 잇는 가장 빠른 길, Jobmanri 프로젝트입니다.)
+자,,드가볼까요,,
 
 ## 📝 Project Overview (프로젝트 개요)
 
@@ -34,7 +34,7 @@ Jobmanri는 [프로젝트의 핵심 목표나 해결하고자 하는 문제] 를
 
 ### Frontend
 
-React, TypeScript, Tailwind CSS, Recoil, Vite
+React, TypeScript, Tailwind CSS, Next.js
 
 ### Backend
 
