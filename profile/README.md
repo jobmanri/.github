@@ -1,5 +1,7 @@
 # Jobmanri (잡만리) 🚀
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf7f01b1-1f14-49d5-b8f3-6fd3ffa636c2" />
+
 프로젝트 한줄 소개 > (예: 구직자와 기업을 잇는 가장 빠른 길, Jobmanri 프로젝트입니다.)
 
 ## 📝 Project Overview (프로젝트 개요)
@@ -27,29 +29,6 @@ Jobmanri는 [프로젝트의 핵심 목표나 해결하고자 하는 문제] 를
 | **강태현** | **배준호** | **안선우** | **장보형** | 
 | [GitHub](https://github.com/polyglot-k) | [GitHub](https://github.com/BaeJunH0) | [GitHub](https://github.com/Sunja-An) | [GitHub](https://github.com/jbh010204) |
 
-## ✨ Key Features (주요 기능)
-
-Jobmanri의 핵심 기능은 다음과 같습니다.
-
-### 1. 사용자 (구직자) 기능
-
-회원가입 및 로그인: 소셜 로그인(Google, Kakao) 및 이메일 인증 지원
-
-입사 지원: 원클릭 지원 및 지원 현황 실시간 조회
-
-### 2. 기업 (채용 담당자) 기능
-
-공고 등록 및 관리: 채용 공고 작성, 수정 및 마감 기한 설정
-
-지원자 관리: 칸반 보드 형태의 지원자 상태 관리 (서류-면접-합격)
-
-면접 일정 스케줄링: 캘린더 연동을 통한 면접 일정 조율
-
-### 3. 관리자 기능
-
-회원 관리: 악성 유저 관리 및 대시보드 제공
-
-콘텐츠 관리: 공지사항 및 배너 관리
 
 ### 🛠 Tech Stack (기술 스택)
 
@@ -68,15 +47,3 @@ AWS (EC2, S3, RDS), Docker, GitHub Actions
 ### Collaboration
 
 Discord, Notion, Figma
-
-## 🏃 Getting Started (실행 방법)
-
-프로젝트를 로컬 환경에서 실행하려면 아래 절차를 따르세요.
-
-Prerequisites
-
-Node.js v18+
-
-Java JDK 17+
-
-MySQL 8.0+
